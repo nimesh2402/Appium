@@ -7,6 +7,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+//Makemy Trip-fetching
+
 public class element_Storing {
 
 	public static void main(String[] args) {
